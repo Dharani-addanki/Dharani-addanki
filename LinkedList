@@ -1,0 +1,14 @@
+import java.util.LinkedList;
+class LinkedList
+{
+public static void main(String args[])
+{
+LinkedList<String> l1=new LinkedList<String>();
+l1.add("dharani");
+l1.add("manish");
+l1.add("vat");
+l1.add("bhanu");
+l1.add("niharika");
+l1.remove("dharani");
+}
+}
