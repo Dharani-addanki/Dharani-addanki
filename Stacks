@@ -1,0 +1,32 @@
+import java.util.Stack;
+class Stacks
+{
+public static void main(String args[])
+{
+Stack<String> v=new Stack<String>();
+v.push("don");
+v.push("manish");
+v.push("niharika");
+v.push("bhanu");
+System.out.println(v);
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
